@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fierbase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-firebase
+firebase
+>>>>>>> c50b1eeb40b3f901850a44760bf784ef264079fd
